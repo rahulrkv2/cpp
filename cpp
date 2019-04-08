@@ -87,13 +87,10 @@ these three classes design a program that will accept dimension of a triangle /r
 interactively and display the area.
 
 
-17.  Write a  C++ program to compute area of right angle triangle, equilateral triangle ,scalene  triangle using function overloading concept.
+17.  Write a  C++ program to compute area of right angle triangle, equilateral triangle ,scalene  triangle using function 
+overloading concept.
 
-18. Write a C++ program illustrating an interactive program for swapping integer, real, and
-character type variables using function overloading .
-
-
-19. Write a program to insert the details of 5 employees. Using array of objects, prepare the
+18.Write a program to insert the details of 5 employees. Using array of objects, prepare the
 employee list and print the details of the employee with 10 plus experience. Use multilevel
 inheritance features.
 Employee : Make a class with Employee with name, experience and salary as
@@ -103,4 +100,7 @@ Data member and read values into the data members.
 Senior : Make a class Senior inherits from Department. Display the details of
 Employees with 10 plus experience.
 
-a) Write a C++ program to implement Hierarchical Inheritance to find the square and cube of a given number. Side Declare class ‘Side’ as base class with a protected data member and a public member function to input a number. Derive classes ‘Square’ and ‘Cube’ in public mode with a Square Cube public member function to compute square and cube respectively.
+
+19. Write a C++ program to implement Hierarchical Inheritance to find the square and cube of a given number. Side Declare 
+class ‘Side’ as base class with a protected data member and a public member function to input a number. Derive classes ‘Square’
+and ‘Cube’ in public mode with a Square Cube public member function to compute square and cube respectively.
